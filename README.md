@@ -18,8 +18,42 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/PamellaCorrea/PamellaCorrea/main/image/Garota Minimalista Trabalhando com Laptop.png"
-     min-width="400px"
-     max-width="400px"
-     width="400px"
-     align="right">
+<img src="./Garota.png" min-width="300px" max-width="300px" width="300px" align="right">
+
+<br />
+
+#### Linguagens:
+
+<br />
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=jameson&logoColor=yellow)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine)
+
+
+#### Cursos:
+
+<br />
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=jameson&logoColor=yellow)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine)
+
+<br />
+
+### ⚙️ Métricas do GitHub
+
+![PamellaCorrea's Stats](https://github-readme-stats.vercel.app/api?username=PamellaCorrea&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![PamellaCorrea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PamellaCorrea&theme=prussian&show_icons=true&hide_border=true&layout=compact)
