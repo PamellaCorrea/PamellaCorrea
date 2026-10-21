@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWtDvdCLXZLDmnzllrHdkgptsHnKMFNMhhLcrvgzcLZVnnRWmbhGqJfhRjtwzrMfMzswxbWVG" target="_blank"><img alt="Gmail" width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/victormoreiraofc" target="_blank"><img alt="GitHub" width="22" src="https://cdn-icons-png.flaticon.com/128/733/733553.png"></a>
+<a href="https://github.com/PamellaCorrea?shem=aimgspe," target="_blank"><img alt="GitHub" width="22" src="https://cdn-icons-png.flaticon.com/128/733/733553.png"></a>
   </a>
 </div>
 
