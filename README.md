@@ -9,7 +9,7 @@
 
 <a href="https://www.instagram.com/pamellacorrea72?mdxt=MWZqdjM3Y21sMjcxOA%3D%3D&utm_source=qr/?theme=dark" target="_blank"><img alt="Instagram" width="22" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/victor-moreira-teixeira/" target="_blank"><img alt="LinkedIn" width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<a href=" http://linkedin.com/in/pamella-correa-della-nina/" target="_blank"><img alt="LinkedIn" width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWtDvdCLXZLDmnzllrHdkgptsHnKMFNMhhLcrvgzcLZVnnRWmbhGqJfhRjtwzrMfMzswxbWVG" target="_blank"><img alt="Gmail" width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
