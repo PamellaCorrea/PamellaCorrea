@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=30&pause=1000&color=AEE8F2&center=true&width=435&lines=Ol%C3%A1%2C+Meu+Nome+%C3%A9+Pamella)](https://git.io/typing-svg)
 
-<a href="https://www.instagram.com/thisisvictormoreira/?theme=dark" target="_blank"><img alt="Instagram" width="22" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png"></a>
+<a href="https://www.instagram.com/pamellacorrea72?mdxt=MWZqdjM3Y21sMjcxOA%3D%3D&utm_source=qr/?theme=dark" target="_blank"><img alt="Instagram" width="22" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/victor-moreira-teixeira/" target="_blank"><img alt="LinkedIn" width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
